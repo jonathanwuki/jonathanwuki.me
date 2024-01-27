@@ -1,3 +1,3 @@
 # jonathanwuki.me
 
-My personal website
+My personal website, available at https://jonathanwuki.me
