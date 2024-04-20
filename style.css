@@ -61,8 +61,8 @@ i {
         flex-direction: column;
         align-items: center;
         width: calc(100% - 40px);
-        padding-left: 20px; 
-        padding-right: 20px; 
+        padding-left: 20px;
+        padding-right: 20px;
         box-sizing: border-box;
     }
 
@@ -90,7 +90,8 @@ i {
         color: #e0e0e0;
     }
 
-    a, i {
+    a,
+    i {
         color: #e0e0e0;
     }
 
